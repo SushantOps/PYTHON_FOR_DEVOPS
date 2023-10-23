@@ -1,3 +1,3 @@
-text = "Python is awesome"
+text = "aws and devops  is awesome"
 new_text = text.replace("awesome", "great")
 print("Modified text:", new_text)
