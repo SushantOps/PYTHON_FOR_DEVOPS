@@ -14,3 +14,4 @@ elif type == "t2.xlarge":
 else:
     print("Please provide correct instance type")
     
+
